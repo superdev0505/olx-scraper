@@ -1,0 +1,115 @@
+1515412694472	geckodriver	INFO	geckodriver 0.19.1
+1515412694535	geckodriver	INFO	Listening on 127.0.0.1:56582
+1515412695145	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Crystal\\AppData\\Local\\Temp\\rust_mozprofile.CFiGDTYKHFhH"
+1515412699088	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Crystal\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515412705859	Marionette	INFO	Listening on port 56590
+1515412706204	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515412706311	Marionette	DEBUG	Register listener.js for window 4294967297
+1515412706426	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515412708913	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515412708913	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515412712438	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.olx.ua/obyavlenie/kukla-lol-lol-lql-glitter-lol-blestyaschaya-kukla-lol-shar-lol-IDxbpRg.html?sd=1"
+1515412718615	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967309"
+1515412718616	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+1515412718616	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967313"
+1515412718617	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+1515412723356	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.olx.ua/obyavlenie/kukla-lol-lol-lql-glitter-lol-blestyaschaya-kukla-lol-shar-lol-IDxbpRg.html?sd=1"
+1515412723858	Marionette	DEBUG	Received observer noUnable to read VR Path Registry from C:\Users\Crystal\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+c/chrome/common/ipc_channel_win.cc, line 513
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+um/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ent 1320, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+nnel_win.cc, line 346
+[Child 1388] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+dJSON@resource://gre/modules/Extension.jsm:451:12
+parseManifest@resource://gre/modules/Extension.jsm:513:7
+parseManifest/<@resource://gre/modules/Extension.jsm:934:45
+get@resource://gre/modules/ExtensionParent.jsm:1477:22
+
+console.error: 
+  Message: [Exception... "Failed to open input source 'jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/screenshots@mozilla.org.xpi!/webextension/manifest.json'"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/Extension.jsm :: readJSON/< :: line 454"  data: yes]
+  Stack:
+    readJSON/<@resource://gre/modules/Extension.jsm:454:7
+readJSON@resource://gre/modules/Extension.jsm:451:12
+parseManifest@resource://gre/modules/Extension.jsm:513:7
+parseManifest/<@resource://gre/modules/Extension.jsm:934:45
+get@resource://gre/modules/ExtensionParent.jsm:1477:22
+
+JavaScript error: resource://gre/modules/XPCOMUtils.jsm, line 309: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIXPCComponents_Utils.import]
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/nsUpdateService.js, line 298: NS_ERROR_XPC_CI_RETURNED_FAILURE: Component returned failure code: 0x80570015 (NS_ERROR_XPC_CI_RETURNED_FAILURE) [nsIJSCID.createInstance]
+1515175363798	addons.xpi	WARN	File pointer C:\Program Files (x86)\Mozilla Firefox\browser\features\activity-stream@mozilla.org.xpi.moz-backup does not contain a path
+1515175363799	addons.xpi	WARN	Failed to remove stale pointer file C:\Program Files (x86)\Mozilla Firefox\browser\features\activity-stream@mozilla.org.xpi.moz-backup: [Exception... "Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIFile.remove]"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: _readAddons :: line 5945"  data: no] Stack trace: _readAddons()@resource://gre/modules/addons/XPIProvider.jsm:5945 < getAddonLocations()@resource://gre/modules/addons/XPIProvider.jsm:5980 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1613 < getNewSideloads()@resource://gre/modules/addons/XPIProvider.jsm:3241 < getNewSideloads()@resource://gre/modules/AddonManager.jsm:3105 < _checkForSideloaded()@resource:///modules/ExtensionsUI.jsm:56 < init()@resource:///modules/ExtensionsUI.jsm:52
+1515175363801	addons.xpi	WARN	File pointer C:\Program Files (x86)\Mozilla Firefox\browser\features\aushelper@mozilla.org.xpi.moz-backup does not contain a path
+1515175363803	addons.xpi	WARN	Failed to remove stale pointer file C:\Program Files (x86)\Mozilla Firefox\browser\features\aushelper@mozilla.org.xpi.moz-backup: [Exception... "Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIFile.remove]"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: _readAddons :: line 5945"  data: no] Stack trace: _readAddons()@resource://gre/modules/addons/XPIProvider.jsm:5945 < getAddonLocations()@resource://gre/modules/addons/XPIProvider.jsm:5980 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1613 < getNewSideloads()@resource://gre/modules/addons/XPIProvider.jsm:3241 < getNewSideloads()@resource://gre/modules/AddonManager.jsm:3105 < _checkForSideloaded()@resource:///modules/ExtensionsUI.jsm:56 < init()@resource:///modules/ExtensionsUI.jsm:52
+1515175363805	addons.xpi	WARN	File pointer C:\Program Files (x86)\Mozilla Firefox\browser\features\clicktoplay-rollout@mozilla.org.xpi.moz-backup does not contain a path
+1515175363805	addons.xpi	WARN	Failed to remove stale pointer file C:\Program Files (x86)\Mozilla Firefox\browser\features\clicktoplay-rollout@mozilla.org.xpi.moz-backup: [Exception... "Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIFile.remove]"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: _readAddons :: line 5945"  data: no] Stack trace: _readAddons()@resource://gre/modules/addons/XPIProvider.jsm:5945 < getAddonLocations()@resource://gre/modules/addons/XPIProvider.jsm:5980 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1613 < getNewSideloads()@resource://gre/modules/addons/XPIProvider.jsm:3241 < getNewSideloads()@resource://gre/modules/AddonManager.jsm:3105 < _checkForSideloaded()@resource:///modules/ExtensionsUI.jsm:56 < init()@resource:///modules/ExtensionsUI.jsm:52
+1515175363806	addons.xpi	WARN	File pointer C:\Program Files (x86)\Mozilla Firefox\browser\features\e10srollout@mozilla.org.xpi.moz-backup does not contain a path
+1515175363807	addons.xpi	WARN	Failed to remove stale pointer file C:\Program Files (x86)\Mozilla Firefox\browser\features\e10srollout@mozilla.org.xpi.moz-backup: [Exception... "Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIFile.remove]"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: _readAddons :: line 5945"  data: no] Stack trace: _readAddons()@resource://gre/modules/addons/XPIProvider.jsm:5945 < getAddonLocations()@resource://gre/modules/addons/XPIProvider.jsm:5980 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1613 < getNewSideloads()@resource://gre/modules/addons/XPIProvider.jsm:3241 < getNewSideloads()@resource://gre/modules/AddonManager.jsm:3105 < _checkForSideloaded()@resource:///modules/ExtensionsUI.jsm:56 < init()@resource:///modules/ExtensionsUI.jsm:52
+1515175363808	addons.xpi	WARN	File pointer C:\Program Files (x86)\Mozilla Firefox\browser\features\firefox@getpocket.com.xpi.moz-backup does not contain a path
+1515175363809	addons.xpi	WARN	Failed to remove stale pointer file C:\Program Files (x86)\Mozilla Firefox\browser\features\firefox@getpocket.com.xpi.moz-backup: [Exception... "Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIFile.remove]"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: _readAddons :: line 5945"  data: no] Stack trace: _readAddons()@resource://gre/modules/addons/XPIProvider.jsm:5945 < getAddonLocations()@resource://gre/modules/addons/XPIProvider.jsm:5980 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1613 < getNewSideloads()@resource://gre/modules/addons/XPIProvider.jsm:3241 < getNewSideloads()@resource://gre/modules/AddonManager.jsm:3105 < _checkForSideloaded()@resource:///modules/ExtensionsUI.jsm:56 < init()@resource:///modules/ExtensionsUI.jsm:52
+1515175363811	addons.xpi	WARN	File pointer C:\Program Files (x86)\Mozilla Firefox\browser\features\followonsearch@mozilla.com.xpi.moz-backup does not contain a path
+1515175363812	addons.xpi	WARN	Failed to remove stale pointer file C:\Program Files (x86)\Mozilla Firefox\browser\features\followonsearch@mozilla.com.xpi.moz-backup: [Exception... "Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIFile.remove]"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: _readAddons :: line 5945"  data: no] Stack trace: _readAddons()@resource://gre/modules/addons/XPIProvider.jsm:5945 < getAddonLocations()@resource://gre/modules/addons/XPIProvider.jsm:5980 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1613 < getNewSideloads()@resource://gre/modules/addons/XPIProvider.jsm:3241 < getNewSideloads()@resource://gre/modules/AddonManager.jsm:3105 < _checkForSideloaded()@resource:///modules/ExtensionsUI.jsm:56 < init()@resource:///modules/ExtensionsUI.jsm:52
+1515175363813	addons.xpi	WARN	File pointer C:\Program Files (x86)\Mozilla Firefox\browser\features\formautofill@mozilla.org.xpi.moz-backup does not contain a path
+1515175363813	addons.xpi	WARN	Failed to remove stale pointer file C:\Program Files (x86)\Mozilla Firefox\browser\features\formautofill@mozilla.org.xpi.moz-backup: [Exception... "Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIFile.remove]"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: _readAddons :: line 5945"  data: no] Stack trace: _readAddons()@resource://gre/modules/addons/XPIProvider.jsm:5945 < getAddonLocations()@resource://gre/modules/addons/XPIProvider.jsm:5980 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1613 < getNewSideloads()@resource://gre/modules/addons/XPIProvider.jsm:3241 < getNewSideloads()@resource://gre/modules/AddonManager.jsm:3105 < _checkForSideloaded()@resource:///modules/ExtensionsUI.jsm:56 < init()@resource:///modules/ExtensionsUI.jsm:52
+1515175363814	addons.xpi	WARN	File pointer C:\Program Files (x86)\Mozilla Firefox\browser\features\onboarding@mozilla.org.xpi.moz-backup does not contain a path
+1515175363815	addons.xpi	WARN	Failed to remove stale pointer file C:\Program Files (x86)\Mozilla Firefox\browser\features\onboarding@mozilla.org.xpi.moz-backup: [Exception... "Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIFile.remove]"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: _readAddons :: line 5945"  data: no] Stack trace: _readAddons()@resource://gre/modules/addons/XPIProvider.jsm:5945 < getAddonLocations()@resource://gre/modules/addons/XPIProvider.jsm:5980 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1613 < getNewSideloads()@resource://gre/modules/addons/XPIProvider.jsm:3241 < getNewSideloads()@resource://gre/modules/AddonManager.jsm:3105 < _checkForSideloaded()@resource:///modules/ExtensionsUI.jsm:56 < init()@resource:///modules/ExtensionsUI.jsm:52
+1515175363816	addons.xpi	WARN	File pointer C:\Program Files (x86)\Mozilla Firefox\browser\features\screenshots@mozilla.org.xpi.moz-backup does not contain a path
+1515175363816	addons.xpi	WARN	Failed to remove stale pointer file C:\Program Files (x86)\Mozilla Firefox\browser\features\screenshots@mozilla.org.xpi.moz-backup: [Exception... "Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIFile.remove]"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: _readAddons :: line 5945"  data: no] Stack trace: _readAddons()@resource://gre/modules/addons/XPIProvider.jsm:5945 < getAddonLocations()@resource://gre/modules/addons/XPIProvider.jsm:5980 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1613 < getNewSideloads()@resource://gre/modules/addons/XPIProvider.jsm:3241 < getNewSideloads()@resource://gre/modules/AddonManager.jsm:3105 < _checkForSideloaded()@resource:///modules/ExtensionsUI.jsm:56 < init()@resource:///modules/ExtensionsUI.jsm:52
+1515175363817	addons.xpi	WARN	File pointer C:\Program Files (x86)\Mozilla Firefox\browser\features\shield-recipe-client@mozilla.org.xpi.moz-backup does not contain a path
+1515175363817	addons.xpi	WARN	Failed to remove stale pointer file C:\Program Files (x86)\Mozilla Firefox\browser\features\shield-recipe-client@mozilla.org.xpi.moz-backup: [Exception... "Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIFile.remove]"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: _readAddons :: line 5945"  data: no] Stack trace: _readAddons()@resource://gre/modules/addons/XPIProvider.jsm:5945 < getAddonLocations()@resource://gre/modules/addons/XPIProvider.jsm:5980 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1613 < getNewSideloads()@resource://gre/modules/addons/XPIProvider.jsm:3241 < getNewSideloads()@resource://gre/modules/AddonManager.jsm:3105 < _checkForSideloaded()@resource:///modules/ExtensionsUI.jsm:56 < init()@resource:///modules/ExtensionsUI.jsm:52
+1515175363818	addons.xpi	WARN	File pointer C:\Program Files (x86)\Mozilla Firefox\browser\features\webcompat@mozilla.org.xpi.moz-backup does not contain a path
+1515175363819	addons.xpi	WARN	Failed to remove stale pointer file C:\Program Files (x86)\Mozilla Firefox\browser\features\webcompat@mozilla.org.xpi.moz-backup: [Exception... "Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIFile.remove]"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: _readAddons :: line 5945"  data: no] Stack trace: _readAddons()@resource://gre/modules/addons/XPIProvider.jsm:5945 < getAddonLocations()@resource://gre/modules/addons/XPIProvider.jsm:5980 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1613 < getNewSideloads()@resource://gre/modules/addons/XPIProvider.jsm:3241 < getNewSideloads()@resource://gre/modules/AddonManager.jsm:3105 < _checkForSideloaded()@resource:///modules/ExtensionsUI.jsm:56 < init()@resource:///modules/ExtensionsUI.jsm:52
+1515175363820	addons.xpi	WARN	Can't get modified time of C:\Program Files (x86)\Mozilla Firefox\browser\features\activity-stream@mozilla.org.xpi
+1515175363821	addons.xpi	WARN	Can't get modified time of C:\Program Files (x86)\Mozilla Firefox\browser\features\aushelper@mozilla.org.xpi
+1515175363821	addons.xpi	WARN	Can't get modified time of C:\Program Files (x86)\Mozilla Firefox\browser\features\clicktoplay-rollout@mozilla.org.xpi
+1515175363821	addons.xpi	WARN	Can't get modified time of C:\Program Files (x86)\Mozilla Firefox\browser\features\e10srollout@mozilla.org.xpi
+1515175363822	addons.xpi	WARN	Can't get modified time of C:\Program Files (x86)\Mozilla Firefox\browser\features\firefox@getpocket.com.xpi
+1515175363822	addons.xpi	WARN	Can't get modified time of C:\Program Files (x86)\Mozilla Firefox\browser\features\followonsearch@mozilla.com.xpi
+1515175363823	addons.xpi	WARN	Can't get modified time of C:\Program Files (x86)\Mozilla Firefox\browser\features\formautofill@mozilla.org.xpi
+1515175363823	addons.xpi	WARN	Can't get modified time of C:\Program Files (x86)\Mozilla Firefox\browser\features\onboarding@mozilla.org.xpi
+1515175363823	addons.xpi	WARN	Can't get modified time of C:\Program Files (x86)\Mozilla Firefox\browser\features\screenshots@mozilla.org.xpi
+1515175363824	addons.xpi	WARN	Can't get modified time of C:\Program Files (x86)\Mozilla Firefox\browser\features\shield-recipe-client@mozilla.org.xpi
+1515175363824	addons.xpi	WARN	Can't get modified time of C:\Program Files (x86)\Mozilla Firefox\browser\features\webcompat@mozilla.org.xpi
+1515175363825	addons.xpi	WARN	Can't get modified time of C:\Program Files (x86)\Mozilla Firefox\browser\extensions\{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi
+1515175363826	addons.xpi-utils	WARN	updateMetadata: Add-on activity-stream@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIFile.isFile]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: this.loadManifestFromFile :: line 976"  data: no] Stack trace: this.loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:976 < syncLoadManifestFromFile()@resource://gre/modules/addons/XPIProvider.jsm:968 < updateMetadata()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1327 < processFileChanges()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1545 < getNewSideloads()@resource://gre/modules/addons/XPIProvider.jsm:3244
+1515175363829	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js, line 1565: TypeError: newAddon is null
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 69: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 69: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+1515175364442	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1515175364463	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1515175364490	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript error: chrome://global/content/bindings/remote-browser.xml, line 291: TypeError: tabParent is null
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/crypto-SDR.js, line 50: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/storage-json.js, line 89: Error: Initialization failed
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/nsLoginManager.js, line 129: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Initialization failed" {file: "jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/storage-json.js" line: 89}]'[JavaScript Error: "Initialization failed" {file: "jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/storage-json.js" line: 89}]' when calling method: [nsILoginManagerStorage::initialize]
+JavaScript error: chrome://global/content/bindings/remote-browser.xml, line 291: TypeError: tabParent is null
+JavaScript error: chrome://global/content/bindings/remote-browser.xml, line 291: TypeError: tabParent is null
+JavaScript error: chrome://browser/content/browser.js, line 1756: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://global/content/bindings/remote-browser.xml, line 291: TypeError: tabParent is null
+JavaScript error: chrome://global/content/bindings/remote-browser.xml, line 291: TypeError: tabParent is null
+JavaScript error: chrome://global/content/bindings/remote-browser.xml, line 291: TypeError: tabParent is null
+JavaScript error: chrome://global/content/bindings/remote-browser.xml, line 291: TypeError: tabParent is null
+JavaScript error: chrome://global/content/bindings/remote-browser.xml, line 291: TypeError: tabParent is null
+JavaScript error: resource:///modules/sessionstore/TabStateFlusher.jsm, line 88: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]
+JavaScript error: resource://gre/modules/Extension.jsm, line 1267: TypeError: data['Extension:Extensions'] is undefined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping

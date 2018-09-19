@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="23e8779a-dd68-4cfd-8c01-02def4e59f06" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/olx_scraper$olx_ua_products.coverage" NAME="olx_ua products Coverage Results" MODIFIED="1515417921636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/olx_scraper/olx_scraper" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="olx_spider.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/olx_scraper/olx_scraper/spiders/olx_spider.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="77" column="36" lean-forward="false" selection-start-line="77" selection-start-column="36" selection-end-line="77" selection-end-column="36" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/olx_scraper/olx_scraper/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>webdriver</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/olx_scraper/olx_scraper/spiders/olx_spider.py" />
+        <option value="$PROJECT_DIR$/olx_scraper/olx_scraper/settings.py" />
+        <option value="$PROJECT_DIR$/olx_scraper/olx_scraper/pipelines.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1080" />
+    <option name="height" value="646" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="olx_scraper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="olx_scraper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="olx_scraper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="olx_scraper" type="462c0819:PsiDirectoryNode" />
+              <item name="olx_scraper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="olx_scraper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="olx_scraper" type="462c0819:PsiDirectoryNode" />
+              <item name="olx_scraper" type="462c0819:PsiDirectoryNode" />
+              <item name="olx_scraper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="olx_scraper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="olx_scraper" type="462c0819:PsiDirectoryNode" />
+              <item name="olx_scraper" type="462c0819:PsiDirectoryNode" />
+              <item name="olx_scraper" type="462c0819:PsiDirectoryNode" />
+              <item name="spiders" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/olx_scraper/olx_scraper" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.olx_ua products">
+    <configuration name="olx_ua products" type="PythonConfigurationType" factoryName="Python" singleton="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="E:\OLX_VENV\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/olx_scraper/olx_scraper" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="olx_scraper" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:/OLX_VENV/Lib/site-packages/scrapy/cmdline.py" />
+      <option name="PARAMETERS" value="crawl olx_ua_products" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="23e8779a-dd68-4cfd-8c01-02def4e59f06" name="Default" comment="" />
+      <created>1515089629781</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1515089629781</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1325215" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295129" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44683716" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20592193" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41184387" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295129" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/olx_scraper/olx_scraper/pipelines.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="12" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="self.cursor.fetchone()" language="Python" />
+        <watch expression="self.cursor.execute((&quot;&quot;&quot;SELECT id FROM cities WHERE cities.display_name LIKE '%s'&quot;&quot;&quot;), (item[&quot;City&quot;].encode('utf-8')))" language="Python" />
+        <watch expression="self.cursor.execute(&quot;SELECT id FROM cities WHERE cities.display_name LIKE \&quot;&quot; + item[&quot;City&quot;].encode('utf-8') + &quot;\&quot;&quot;)" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/olx_scraper/olx_scraper/spiders/olx_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1241">
+          <caret line="77" column="36" lean-forward="false" selection-start-line="77" selection-start-column="36" selection-end-line="77" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/olx_scraper/olx_scraper/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/olx_scraper/olx_scraper/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="22" />
+          <folding>
+            <element signature="e#195#210#0" expanded="true" />
+            <marker date="1515419207208" expanded="true" signature="608:643" ph="SELECT * FRO... cities" />
+            <marker date="1515419207208" expanded="true" signature="608:660" ph="SELECT * FRO... cities" />
+            <marker date="1515419207208" expanded="true" signature="608:661" ph="SELECT id FR... cities" />
+            <marker date="1515419207208" expanded="true" signature="608:665" ph="SELECT id FR... cities" />
+            <marker date="1515419207208" expanded="true" signature="608:677" ph="SELECT id FR... cities" />
+            <marker date="1515419207208" expanded="true" signature="608:682" ph="SELECT id FR... cities" />
+            <marker date="1515419207208" expanded="true" signature="608:684" ph="SELECT id FR... cities" />
+            <marker date="1515419207208" expanded="true" signature="608:692" ph="SELECT id FR... cities" />
+            <marker date="1515419207208" expanded="true" signature="608:700" ph="SELECT id FR... cities" />
+            <marker date="1515419207208" expanded="true" signature="608:702" ph="SELECT id FR... cities" />
+            <marker date="1515419207208" expanded="true" signature="886:927" ph="SELECT id FR... areas" />
+            <marker date="1515419207208" expanded="true" signature="886:928" ph="SELECT id FR... areas" />
+            <marker date="1515419207208" expanded="true" signature="886:969" ph="SELECT id FR... areas" />
+            <marker date="1515419207208" expanded="true" signature="886:971" ph="SELECT id FR... areas" />
+            <marker date="1515419207208" expanded="true" signature="886:1009" ph="SELECT id FR... areas" />
+            <marker date="1515419207208" expanded="true" signature="886:1011" ph="SELECT id FR... areas" />
+            <marker date="1515419207208" expanded="true" signature="1210:1268" ph="SELECT id FR... districts" />
+            <marker date="1515419207208" expanded="true" signature="1475:1524" ph="INSERT INTO mobile_numbers... " />
+            <marker date="1515419207208" expanded="true" signature="1486:1502" ph="UPDATE mobil... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/olx_scraper/olx_scraper/spiders/olx_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/olx_scraper/olx_scraper/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="63" column="40" lean-forward="false" selection-start-line="63" selection-start-column="40" selection-end-line="63" selection-end-column="40" />
+          <folding>
+            <element signature="e#195#210#0" expanded="true" />
+            <marker date="1515419207208" expanded="true" signature="608:643" ph="SELECT * FRO... cities" />
+            <marker date="1515419207208" expanded="true" signature="608:660" ph="SELECT * FRO... cities" />
+            <marker date="1515419207208" expanded="true" signature="608:661" ph="SELECT id FR... cities" />
+            <marker date="1515419207208" expanded="true" signature="608:665" ph="SELECT id FR... cities" />
+            <marker date="1515419207208" expanded="true" signature="608:677" ph="SELECT id FR... cities" />
+            <marker date="1515419207208" expanded="true" signature="608:682" ph="SELECT id FR... cities" />
+            <marker date="1515419207208" expanded="true" signature="608:684" ph="SELECT id FR... cities" />
+            <marker date="1515419207208" expanded="true" signature="608:692" ph="SELECT id FR... cities" />
+            <marker date="1515419207208" expanded="true" signature="608:700" ph="SELECT id FR... cities" />
+            <marker date="1515419207208" expanded="true" signature="608:702" ph="SELECT id FR... cities" />
+            <marker date="1515419207208" expanded="true" signature="886:927" ph="SELECT id FR... areas" />
+            <marker date="1515419207208" expanded="true" signature="886:928" ph="SELECT id FR... areas" />
+            <marker date="1515419207208" expanded="true" signature="886:969" ph="SELECT id FR... areas" />
+            <marker date="1515419207208" expanded="true" signature="886:971" ph="SELECT id FR... areas" />
+            <marker date="1515419207208" expanded="true" signature="886:1009" ph="SELECT id FR... areas" />
+            <marker date="1515419207208" expanded="true" signature="886:1011" ph="SELECT id FR... areas" />
+            <marker date="1515419207208" expanded="true" signature="1210:1268" ph="SELECT id FR... districts" />
+            <marker date="1515419207208" expanded="true" signature="1475:1524" ph="INSERT INTO mobile_numbers... " />
+            <marker date="1515419207208" expanded="true" signature="1486:1502" ph="UPDATE mobil... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/olx_scraper/olx_scraper/spiders/olx_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="76" column="0" lean-forward="false" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/olx_scraper/olx_scraper/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+          <folding>
+            <element signature="e#195#210#0" expanded="true" />
+            <marker date="1515419207208" expanded="true" signature="608:643" ph="SELECT * FRO... cities" />
+            <marker date="1515419207208" expanded="true" signature="608:660" ph="SELECT * FRO... cities" />
+            <marker date="1515419207208" expanded="true" signature="608:661" ph="SELECT id FR... cities" />
+            <marker date="1515419207208" expanded="true" signature="608:665" ph="SELECT id FR... cities" />
+            <marker date="1515419207208" expanded="true" signature="608:677" ph="SELECT id FR... cities" />
+            <marker date="1515419207208" expanded="true" signature="608:682" ph="SELECT id FR... cities" />
+            <marker date="1515419207208" expanded="true" signature="608:684" ph="SELECT id FR... cities" />
+            <marker date="1515419207208" expanded="true" signature="608:692" ph="SELECT id FR... cities" />
+            <marker date="1515419207208" expanded="true" signature="608:700" ph="SELECT id FR... cities" />
+            <marker date="1515419207208" expanded="true" signature="608:702" ph="SELECT id FR... cities" />
+            <marker date="1515419207208" expanded="true" signature="886:927" ph="SELECT id FR... areas" />
+            <marker date="1515419207208" expanded="true" signature="886:928" ph="SELECT id FR... areas" />
+            <marker date="1515419207208" expanded="true" signature="886:969" ph="SELECT id FR... areas" />
+            <marker date="1515419207208" expanded="true" signature="886:971" ph="SELECT id FR... areas" />
+            <marker date="1515419207208" expanded="true" signature="886:1009" ph="SELECT id FR... areas" />
+            <marker date="1515419207208" expanded="true" signature="886:1011" ph="SELECT id FR... areas" />
+            <marker date="1515419207208" expanded="true" signature="1210:1268" ph="SELECT id FR... districts" />
+            <marker date="1515419207208" expanded="true" signature="1475:1524" ph="INSERT INTO mobile_numbers... " />
+            <marker date="1515419207208" expanded="true" signature="1486:1502" ph="UPDATE mobil... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/olx_scraper/olx_scraper/spiders/olx_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1530">
+          <caret line="94" column="18" lean-forward="false" selection-start-line="94" selection-start-column="18" selection-end-line="94" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/olx_scraper/olx_scraper/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="e#195#210#0" expanded="true" />
+            <marker date="1515419207208" expanded="true" signature="608:643" ph="SELECT * FRO... cities" />
+            <marker date="1515419207208" expanded="true" signature="608:660" ph="SELECT * FRO... cities" />
+            <marker date="1515419207208" expanded="true" signature="608:661" ph="SELECT id FR... cities" />
+            <marker date="1515419207208" expanded="true" signature="608:665" ph="SELECT id FR... cities" />
+            <marker date="1515419207208" expanded="true" signature="608:677" ph="SELECT id FR... cities" />
+            <marker date="1515419207208" expanded="true" signature="608:682" ph="SELECT id FR... cities" />
+            <marker date="1515419207208" expanded="true" signature="608:684" ph="SELECT id FR... cities" />
+            <marker date="1515419207208" expanded="true" signature="608:692" ph="SELECT id FR... cities" />
+            <marker date="1515419207208" expanded="true" signature="608:700" ph="SELECT id FR... cities" />
+            <marker date="1515419207208" expanded="true" signature="608:702" ph="SELECT id FR... cities" />
+            <marker date="1515419207208" expanded="true" signature="886:927" ph="SELECT id FR... areas" />
+            <marker date="1515419207208" expanded="true" signature="886:928" ph="SELECT id FR... areas" />
+            <marker date="1515419207208" expanded="true" signature="886:969" ph="SELECT id FR... areas" />
+            <marker date="1515419207208" expanded="true" signature="886:971" ph="SELECT id FR... areas" />
+            <marker date="1515419207208" expanded="true" signature="886:1009" ph="SELECT id FR... areas" />
+            <marker date="1515419207208" expanded="true" signature="886:1011" ph="SELECT id FR... areas" />
+            <marker date="1515419207208" expanded="true" signature="1210:1268" ph="SELECT id FR... districts" />
+            <marker date="1515419207208" expanded="true" signature="1475:1524" ph="INSERT INTO mobile_numbers... " />
+            <marker date="1515419207208" expanded="true" signature="1486:1502" ph="UPDATE mobil... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.001/Amazon.py" />
+    <entry file="file://E:/Scraper/Scraper Documentation Full/database/smswords_db_20170719 (STRUCTURE + PROCEDURES ONLY).sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="36" lean-forward="false" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/olx_scraper/olx_scraper/spiders/olx_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="50" column="42" lean-forward="true" selection-start-line="50" selection-start-column="42" selection-end-line="50" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.001/Amazon.py" />
+    <entry file="file://$USER_HOME$/Downloads/olua.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="613">
+          <caret line="80" column="18" lean-forward="false" selection-start-line="43" selection-start-column="4" selection-end-line="80" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Scraper/Scraper Documentation Full/database/smswords_db_20170719 (STRUCTURE + PROCEDURES ONLY).sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="36" lean-forward="false" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/olx_scraper/olx_scraper/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/OLX_VENV/Lib/site-packages/scrapy/spidermiddlewares/urllength.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/OLX_VENV/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="153" column="0" lean-forward="false" selection-start-line="153" selection-start-column="0" selection-end-line="153" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/OLX_VENV/Lib/site-packages/pyvirtualdisplay/display.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/olx_scraper/olx_scraper/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/olx_scraper/olx_scraper/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/OLX_VENV/Lib/site-packages/MySQLdb/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1054">
+          <caret line="64" column="0" lean-forward="true" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/olx_scraper/olx_scraper/spiders/olx_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="77" column="36" lean-forward="false" selection-start-line="77" selection-start-column="36" selection-end-line="77" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/72927758-5cd9-47fa-9cec-466740c55e67/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/olx_scraper/olx_scraper/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="62" column="46" lean-forward="true" selection-start-line="62" selection-start-column="46" selection-end-line="62" selection-end-column="46" />
+          <folding>
+            <element signature="e#195#210#0" expanded="true" />
+            <marker date="1515419207208" expanded="true" signature="608:643" ph="SELECT * FRO... cities" />
+            <marker date="1515419207208" expanded="true" signature="608:660" ph="SELECT * FRO... cities" />
+            <marker date="1515419207208" expanded="true" signature="608:661" ph="SELECT id FR... cities" />
+            <marker date="1515419207208" expanded="true" signature="608:665" ph="SELECT id FR... cities" />
+            <marker date="1515419207208" expanded="true" signature="608:677" ph="SELECT id FR... cities" />
+            <marker date="1515419207208" expanded="true" signature="608:682" ph="SELECT id FR... cities" />
+            <marker date="1515419207208" expanded="true" signature="608:684" ph="SELECT id FR... cities" />
+            <marker date="1515419207208" expanded="true" signature="608:692" ph="SELECT id FR... cities" />
+            <marker date="1515419207208" expanded="true" signature="608:700" ph="SELECT id FR... cities" />
+            <marker date="1515419207208" expanded="true" signature="608:702" ph="SELECT id FR... cities" />
+            <marker date="1515419207208" expanded="true" signature="886:927" ph="SELECT id FR... areas" />
+            <marker date="1515419207208" expanded="true" signature="886:928" ph="SELECT id FR... areas" />
+            <marker date="1515419207208" expanded="true" signature="886:969" ph="SELECT id FR... areas" />
+            <marker date="1515419207208" expanded="true" signature="886:971" ph="SELECT id FR... areas" />
+            <marker date="1515419207208" expanded="true" signature="886:1009" ph="SELECT id FR... areas" />
+            <marker date="1515419207208" expanded="true" signature="886:1011" ph="SELECT id FR... areas" />
+            <marker date="1515419207208" expanded="true" signature="1210:1268" ph="SELECT id FR... districts" />
+            <marker date="1515419207208" expanded="true" signature="1475:1524" ph="INSERT INTO mobile_numbers... " />
+            <marker date="1515419207208" expanded="true" signature="1486:1502" ph="UPDATE mobil... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/olx_scraper/olx_scraper/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
